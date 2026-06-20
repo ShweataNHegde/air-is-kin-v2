@@ -22,7 +22,7 @@ features:
     button:
       enable: true
       label: "Communities in Hounslow"
-      link: "/communities-hounslow"
+      link: "community/post-6/"
 
   - title: "Talk To Your GP"
     image: "/images/air-detective.jpg"
