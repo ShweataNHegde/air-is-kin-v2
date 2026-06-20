@@ -28,20 +28,14 @@ weight = 3
 
 [[main]]
 parent =  'Resources'
-name = "For Students"
-url = "resources-for-students"
+name = "Air Detective"
+url = "air-detective"
 weight = 1
 
 [[main]]
 parent =  'Resources'
-name = "For Teachers"
-url = "resources-for-teachers"
-weight = 2
-
-[[main]]
-parent =  'Resources'
-name = "For Parents"
-url = "resources-for-parents"
+name = "Talk To GP"
+url = "talk-to-your-gp"
 weight = 3
 
 #[[main]]
