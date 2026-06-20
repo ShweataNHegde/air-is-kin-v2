@@ -2,15 +2,15 @@
 # Banner
 banner:
   title: "Raising Airwareness. Let's Make the Invisible Visible."
-  content: "London's air pollution has reduced significantly over the years. Yet, many regions still need to withstand the impacts of air pollution. Air is Kin can help you to document your lived experience of impacts of air pollution and connect you to communities that can support."
+  content: "London's air pollution has reduced significantly over the years. Yet, many regions still need to withstand the impacts of air pollution. Air is Kin can help you to document your lived experience of the impacts of air pollution and connect you to communities that can provide support."
   image: "/images/air-is-kin-banner-2.png"
 
 
 # Features
 features:
-  - title: "Air Detective"
+  - title: "Become an Air Detective"
     image: "/images/air-pollution-design.png"
-    content: "Air Detective is a fun activity for curious primary school children to learn more about air quality in their neighbourhood. As a parent, you can work together with your child to notice the causes of air pollution in your area, and initatives that keep the air clean!"
+    content: "The Air Detective homework sheet is a fun activity for curious primary school children to learn more about air quality in their neighbourhood. As a parent, you can work together with your child to notice the causes of air pollution in your area, and initiatives that keep the air clean!"
     button:
       enable: true
       label: "Help your child become an air detective"
@@ -29,6 +29,6 @@ features:
     content: "Use the health diary to track your and your children's symptoms. Despite having this evidence, talking to GP might be challenging, here are some resources to help you."
     button:
       enable: true
-      label: "resources"
+      label: "Resources"
       link: "/resources-for-parents"
 ---

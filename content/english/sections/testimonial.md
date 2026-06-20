@@ -1,29 +1,24 @@
 ---
 enable: true
-title: "What Users Are Saying About Air is Kin"
+title: "What Users Are Saying About Airwareness"
 description: ""
 
 # Testimonials
 testimonials:
-  - name: "Anon"
-    designation: "Student"
+  - name: "Ms Hooper"
+    designation: "Teacher, Fairholme Primary School"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Our students loved being an air detective!"
 
-  - name: "Marvin McKinney"
-    designation: "Teacher"
+  - name: "Ms Cherry"
+    designation: "Parent, Hounslow Resident (6-7 years)"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "We learnt a lot through the [Air Detective] worksheet; we hadn't realised how much our community was affected by air pollution."
 
-  - name: "Marvin McKinney"
-    designation: "Parent"
+  - name: "Eva-Mae"
+    designation: "Student, Fairholme Primary School"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
-
-  - name: "Marvin McKinney"
-    designation: "Local"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "I loved filling the Air Detective worksheet! Drawing the environment map was my favourite!"
 
 # don't create a separate page
 build:
