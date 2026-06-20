@@ -1,5 +1,5 @@
 ---
-title: How to talk to your GP?
+title: Air Detective
 ---
 
 The Air Detective homework sheet is a fun activity for curious primary school children to learn more about air quality in their neighbourhood. As a parent, you can work together with your child to notice the causes of air pollution in your area, and initiatives that keep the air clean!
