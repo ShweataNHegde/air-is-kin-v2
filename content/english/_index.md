@@ -14,7 +14,7 @@ features:
     button:
       enable: true
       label: "Help your child become an air detective"
-      link: "#"
+      link: "air-detective/"
 
   - title: "Join Communities In Your Area"
     image: "/images/communities.png"
