@@ -77,8 +77,8 @@ show_categories = true
 keywords = ["Boilerplate", "Hugo"]
 description = "Air is Kin is a project that aims to provide a comprehensive understanding of air quality and its impact on health. Our goal is to empower individuals and communities to take action towards cleaner air and healthier living environments."
 author = "Air is Kin"
-twitter = "zeon_studio"
-image = "images/og-image.png"
+twitter = "airiskin"
+image = "images/landing-page.png"
 
 
 # site verifications
