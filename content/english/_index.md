@@ -30,5 +30,5 @@ features:
     button:
       enable: true
       label: "Resources"
-      link: "/resources-for-parents"
+      link: "resources-for-parents"
 ---
