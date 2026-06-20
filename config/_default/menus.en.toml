@@ -29,34 +29,30 @@ weight = 3
 [[main]]
 parent =  'Resources'
 name = "For Students"
-url = "/symptom-diary-for-students"
+url = "resources-for-students"
 weight = 1
 
 [[main]]
 parent =  'Resources'
 name = "For Teachers"
-url = "/symptom-diary-for-teachers"
+url = "resources-for-teachers"
 weight = 2
 
 [[main]]
 parent =  'Resources'
 name = "For Parents"
-url = "/symptom-diary-for-parents"
+url = "resources-for-parents"
 weight = 3
 
-[[main]]
-name = "Blog"
-url = "/blog"
-weight = 4
+#[[main]]
+#name = "Blog"
+#url = "/blog"
+#weight = 4
 
 [[main]]
 name = "Community"
 weight = 4
-
-[[main]]
-parent = "Community"
-name = "Hounslow"
-weight = 1
+url = "/community"
 
 # footer menu
 [[footer]]

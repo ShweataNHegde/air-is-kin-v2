@@ -16,7 +16,7 @@ features:
       label: "Help your child become an air detective"
       link: "#"
 
-  - title: "Join Communities in your area"
+  - title: "Join Communities In Your Area"
     image: "/images/communities.png"
     content: "Causes of air pollution are unevenly distributed across London. Some regions are closer to airport, for example. Other regions have become construction areas to cater to a growing city. If you feel like, join or help local advocates from your area in withstanding air pollution. There is no pressure to become advocates, of course, but often times it is useful to know that there are communities trying to make your area a better place to live in."
     button:
@@ -24,7 +24,7 @@ features:
       label: "Communities in Hounslow"
       link: "/communities-hounslow"
 
-  - title: "Talk to your GP"
+  - title: "Talk To Your GP"
     image: "/images/air-detective.jpg"
     content: "Use the health diary to track your and your children's symptoms. Despite having this evidence, talking to GP might be challenging, here are some resources to help you."
     button:
