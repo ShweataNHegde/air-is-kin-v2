@@ -1,0 +1,70 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+weight = 2
+
+[[main]]
+parent = 'About'
+name = "About the Project"
+url = "/about"
+weight = 1
+
+[[main]]
+parent = 'About'
+name = "People"
+url = "/authors"
+weight = 2
+
+[[main]]
+name = "Resources"
+weight = 3
+
+[[main]]
+parent =  'Resources'
+name = "For Students"
+url = "/symptom-diary-for-students"
+weight = 1
+
+[[main]]
+parent =  'Resources'
+name = "For Teachers"
+url = "/symptom-diary-for-teachers"
+weight = 2
+
+[[main]]
+parent =  'Resources'
+name = "For Parents"
+url = "/symptom-diary-for-parents"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 4
+
+[[main]]
+name = "Community"
+weight = 4
+
+[[main]]
+parent = "Community"
+name = "Hounslow"
+weight = 1
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
