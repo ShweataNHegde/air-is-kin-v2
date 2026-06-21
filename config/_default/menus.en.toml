@@ -38,14 +38,14 @@ name = "Talk To GP"
 url = "talk-to-your-gp"
 weight = 3
 
-#[[main]]
-#name = "Blog"
-#url = "/blog"
-#weight = 4
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 4
 
 [[main]]
 name = "Community"
-weight = 4
+weight = 5
 url = "/community"
 
 # footer menu
