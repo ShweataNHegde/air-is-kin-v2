@@ -4,7 +4,6 @@ meta_title: ""
 description: ""
 date: 2026-06-21T05:00:00Z
 image: "/images/common-ivy.jpg"
-categories: ["parent-tips"]
 author: "Lily Pagano"
 tags: ["trees", "gardening"]
 draft: false
