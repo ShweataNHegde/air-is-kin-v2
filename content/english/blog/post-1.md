@@ -1,7 +1,7 @@
 ---
 title: "Growing Clean Air at Home: Fun Family Gardening Tips to Shield Your Kids "
 meta_title: ""
-description: "this is meta description"
+description: ""
 date: 2026-06-21T05:00:00Z
 image: "/images/common-ivy.jpg"
 categories: ["parent-tips"]
