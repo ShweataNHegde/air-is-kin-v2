@@ -8,7 +8,7 @@ tags: ["schools"]
 draft: false
 comments: false
 ---
-The central ethos of Raising Airwareness is making dealing with air pollution easier. We have found Hounslow-specific support or advocacy groups that you can get involved in: 
+The central ethos of Let's Raise Air-wareness is making dealing with air pollution easier. We have found Hounslow-specific support or advocacy groups that you can get involved in: 
 
 [Hounslow Borough Friends of the Earth](https://groups.friendsoftheearth.uk/groups/hounslow-borough-friends-of-the-earth)
 

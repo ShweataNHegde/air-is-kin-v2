@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Raising Airwareness. Let's Make the Invisible Visible."
+  title: "Let's Raise Air-wareness. Making the Invisible Visible."
   content: "London's air pollution has reduced significantly over the years. Yet, many regions still need to withstand the impacts of air pollution. Air is Kin can help you to document your lived experience of the impacts of air pollution and connect you to communities that can provide support."
   image: "/images/air-is-kin-banner-2.png"
 

@@ -6,7 +6,7 @@
       {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
     </div>
     {{ with .Description }}
-          <p class="mt-4 text-lg text-text-dark">
+          <p class="mt-4 text-lg from-body to-light dark:from-darkmode-body dark:to-darkmode-light rounded-2xl bg-gradient-to-b px-8 py-14">
             {{ . }}
           </p>
         {{ end }}
