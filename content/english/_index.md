@@ -14,7 +14,7 @@ features:
     button:
       enable: true
       label: "Help your child become an air detective"
-      link: "air-detective-guide/"
+      link: "air-detective-guide-for-parents/"
 
   - title: "Try the Health Diary"
     image: "/images/air-pollution-design.png"
