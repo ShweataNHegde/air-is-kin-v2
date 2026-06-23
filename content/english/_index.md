@@ -5,16 +5,24 @@ banner:
   content: "London's air pollution has reduced significantly over the years. Yet, many regions still need to withstand the impacts of air pollution. Air is Kin can help you to document your lived experience of the impacts of air pollution and connect you to communities that can provide support."
   image: "/images/air-is-kin-banner-2.png"
 
-
 # Features
 features:
   - title: "Become an Air Detective"
     image: "/images/air-pollution-design.png"
     content: "The Air Detective homework sheet is a fun activity for curious primary school children to learn more about air quality in their neighbourhood. As a parent, you can work together with your child to notice the causes of air pollution in your area, and initiatives that keep the air clean!"
+    video_embed: https://www.youtube.com/embed/ldxFjLJ3rVY?si=Bqnr9d6GB3ZLNZH
     button:
       enable: true
       label: "Help your child become an air detective"
-      link: "air-detective/"
+      link: "air-detective-guide/"
+
+  - title: "Try the Health Diary"
+    image: "/images/air-pollution-design.png"
+    content: "To take this activity further, and better understand how air pollution may be impacting your health, use the Air is Kin Health Diary to monitor your wellbeing."
+    button:
+      enable: true
+      label: "Health Diary"
+      link: "https://www.thecentriclab.com/air-is-kin/health-diary-info-guide"
 
   - title: "Join Communities In Your Area"
     image: "/images/communities.png"
@@ -26,9 +34,9 @@ features:
 
   - title: "Talk To Your GP"
     image: "/images/air-detective.jpg"
-    content: "Use the health diary to track your and your children's symptoms. Despite having this evidence, talking to GP might be challenging, here are some resources to help you."
+    content: "After doing the air detective activity and maintaining the health diary, you may want to talk to your GP about air pollution and its impacts on health. Despite having evidence, talking to GP might be challenging. Air is Kin has a useful resource written by doctors on how to talk to your GP about this."
     button:
       enable: true
       label: "Resources"
-      link: "talk-to-your-gp"
+      link: "https://www.thecentriclab.com/air-is-kin/approach-gp-ap-childhealth"
 ---

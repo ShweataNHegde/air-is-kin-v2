@@ -28,15 +28,27 @@ weight = 3
 
 [[main]]
 parent =  'Resources'
-name = "Air Detective"
-url = "air-detective"
+name = "For Parents"
+url = "/air-detective-guide-for-parents"
 weight = 1
 
 [[main]]
 parent =  'Resources'
-name = "Talk To GP"
-url = "talk-to-your-gp"
+name = "For Teachers"
+url = "/lesson-guide-for-teachers"
+weight = 2
+
+[[main]]
+parent =  'Resources'
+name = "For Schools"
+url = "for-schools"
 weight = 3
+
+[[main]]
+parent =  'Resources'
+name = "Further AiK Resources"
+url = "further-aik-resources"
+weight = 4
 
 [[main]]
 name = "Blog"
