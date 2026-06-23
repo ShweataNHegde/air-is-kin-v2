@@ -22,7 +22,7 @@ You can download the digital assets about the campaign from this link, [here](ht
 
 We also have digital assets to prompt parents/carer and child have a conversation about the worksheet.
 
-## Digital Newsletter Inserts
+## Digital Newsletters
 
 
 {{< tabs >}}
@@ -31,7 +31,7 @@ We also have digital assets to prompt parents/carer and child have a conversatio
 
 ### Aimed At Teachers
 
-Air is Kin - an environmental health justice project by Centric Lab - is collaborating with primary schools as part of their Let’s Raise Air-wareness campaign. AiK have designed resources that can be used in your school in Hounslow to help spark conversations at home about how families can protect themselves against air pollution. The resources have recieved great feedback from parents have fed back to teachers about how great it is that this campaign is supporting them an issue that can often feel solution-less.
+Air is Kin - an environmental health justice project by Centric Lab - is collaborating with primary schools as part of the Let’s Raise Air-wareness campaign. AiK has designed resources that can be used in your school in Hounslow to help spark conversations at home about how families can protect themselves against air pollution. The resources have recieved great feedback from parents have fed back to teachers about how great it is that this campaign is supporting them an issue that can often feel solution-less.
 
 #### Why It Matters
 Hounslow is one of London’s most air-polluted areas. 
@@ -91,9 +91,26 @@ closed during rush hour or high pollution alerts.
 Find out how you can get involved in the campaign here: https://shweatanhegde.github.io/air-is-kin-v2/
 
 {{< /tab >}}
+{{ < tab "Aimed at School">} }
+
 {{< /tabs >}}
 
 Feel free to tailor the content according to your audience. We are also available to send customised versions/docx versions of the inserts if necessary.
+
+{{< notice "Downloadable" >}}
+
+Download the newsletter insert for teachers (Teachers Union newsletters, for example), [here](https://docs.google.com/document/d/1vG1jr8slM-I0PHWOJfFj6NSJ9p3zt0Gp/edit?usp=drive_link&ouid=102162640834446538146&rtpof=true&sd=true) (DOCX).
+{{< /notice >}}
+
+{{< notice "Downloadable" >}}
+Download the full newsletter for parents, [here](https://docs.google.com/document/d/19LR0HO-aF6k_9IT5d5B44fZOBeU8k9vw/edit?usp=drive_link&ouid=102162640834446538146&rtpof=true&sd=true) (DOCX).
+
+{{< /notice >}}
+
+{{< notice "Downloadable" >}}
+Download the shorter newsletter insert (which can be part of general school newsletter) for parents, [here](https://docs.google.com/document/d/10r7xV53kCkYZRImls8Nrjrk-tVe79fU9/edit?usp=drive_link&ouid=102162640834446538146&rtpof=true&sd=true) (DOCX).
+
+{{< /notice >}}
 
 ## Wearables
 We have also created downloadable stickers that the children and teachers can wear during the activity.
