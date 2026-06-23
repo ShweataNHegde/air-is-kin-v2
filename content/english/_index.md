@@ -10,7 +10,7 @@ features:
   - title: "Become an Air Detective"
     image: "/images/air-pollution-design.png"
     content: "The Air Detective homework sheet is a fun activity for curious primary school children to learn more about air quality in their neighbourhood. As a parent, you can work together with your child to notice the causes of air pollution in your area, and initiatives that keep the air clean!"
-    video_embed: https://www.youtube.com/embed/ldxFjLJ3rVY?si=Bqnr9d6GB3ZLNZH
+    video_embed: https://www.youtube.com/embed/MNCIpyRimCo?si=Cl9j90eO-HtMzJkc
     button:
       enable: true
       label: "Help your child become an air detective"

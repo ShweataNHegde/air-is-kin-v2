@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 meta_title: ""
-description: "this is meta description"
+description: ""
 layout: "contact"
 draft: false
 ---
