@@ -1,7 +1,7 @@
 ---
 title: More Digital Resources by Air is Kin
 ---
-Air is Kin has several digital resources that might come useful at various stages of your journey in understanding the cause and impact of air pollution to your and your community's health. Some key resources are listed below: 
+[Air is Kin](https://www.thecentriclab.com/aik) has several digital resources that might come useful at various stages of your journey in understanding the cause and impact of air pollution to your and your community's health. Some key resources are listed below: 
 
 ## Health Diary
 https://www.thecentriclab.com/air-is-kin/health-diary-info-guide

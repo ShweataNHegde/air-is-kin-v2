@@ -22,7 +22,11 @@ Download the parents/carers guide, [here](https://drive.google.com/file/d/1KGSZI
 ## Next Step: Share your experience
 If you enjoyed this activity and gathered data about your neighbourhood's air quality, consider using this template message to start a conversation in local Facebook/WhatsApp groups:
 
-{{< notice "info" >}}
+---
+Hi Hounslow (Facebook group name), I'm X, parent/carer of Y. I have started to notice air pollution even more this year and wanted to share this campaign that I think we should all get involved in. Air is Kin, an organisation supporting communities exposed to air pollution, are collaborating with parents in Hounslow for their campaign "Let's Raise Air-wareness". They have lots of tools for us to help protect our children against air pollution.
 
-Template message
-{{< /notice >}}
+Y brought back a worksheet all about looking at the environment in Hounslow last week, and I found that Air is Kin is reaching out to primary schools in our local area. 
+
+Please share with your children's teachers, and if you would like to join other parents like me, then check out this link: https://shweatanhegde.github.io/air-is-kin-v2/
+
+---

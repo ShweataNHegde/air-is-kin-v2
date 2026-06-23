@@ -6,7 +6,7 @@ image: "/images/air-is-kin-main-logo.png"
 layout: "about"
 draft: false
 ---
-Let's Raise Airwareness connects parents and carers with Air is Kin – an environmental health justice project centred around air pollution and developed by Centric Lab – through trusted school channels and existing community networks.  
+Let's Raise Air-wareness connects parents and carers with Air is Kin – an environmental health justice project centred around air pollution and developed by Centric Lab – through trusted school channels and existing community networks.  
 
 Our intention is to raise awareness about air pollution and the adverse health effects that come from regular exposure. We want you to recognise patterns about the symptoms of air pollution exposure, encouraging you to visit your GPs if you recognise the signs.  
  
