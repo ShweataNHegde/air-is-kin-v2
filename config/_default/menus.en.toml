@@ -60,6 +60,11 @@ name = "Community"
 weight = 5
 url = "/community"
 
+[[main]]
+name = "Observations"
+weight = 6
+url = "/air-detectives-observations"
+
 # footer menu
 [[footer]]
 name = "About"
