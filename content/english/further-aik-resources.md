@@ -8,10 +8,16 @@ https://www.thecentriclab.com/air-is-kin/health-diary-info-guide
 
 The Health Diary (including the Symptoms Weekly Tracker and Info Guide) is a self-reporting tool designed for community members to capture and document their lived experiences with air pollution exposure. It features structured, peer-reviewed questionnaires that help individuals track changes in both their environment and health - such as persistent coughs, migraines, and skin reactions. By recording these symptoms, communities can better understand how air pollution affects them and clearly articulate these patterns to healthcare professionals.
 
+Let’s Raise Air-wareness has adapted the Health Diary into a classroom-friendly activity sheet, aiming to gently introduce primary school children to the concept of air quality and environmental awareness through the lens of curiosity and exploration, rather than anxiety or alarm.
+
+By framing the activity as detective work, the sheet encourages children to become active, engaged observers of their everyday surroundings - noticing things they might otherwise take for granted, such as traffic levels, green spaces, and the general feel of different places in their neighbourhood.
+
 ## Air is Kin Academy
 https://www.thecentriclab.com/air-is-kin/air-is-kin-academy
 
 The AiK Academy is a self-directed, digital learning tool built within an interactive "Miro World." It features a series of modules and lessons covering the history of environmental movements, the science of air pollution, and the specific ways pollutants harm our bodies and minds. The academy is structured to help build an educated, connected community that can move health justice advocacy forward at a supportive and gentle pace.
+
+A core aim of Let’s Raise Air-wareness is to connect primary school parents to the wider Air is Kin campaign, signposting them towards existing resources and information. The Aik Academcy was highlighted as a relevant existing resource for parents, emphasising a self-directed learning approach that provides affected residents (in our case Hounslow parents and carers) with the tools to better understand air pollution and its health impacts as well as how to best navigate campaigning at a community-led pace.
 
 ## Talk to Your GP
 https://www.thecentriclab.com/air-is-kin/approach-gp-ap-childhealth
