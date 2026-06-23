@@ -41,7 +41,7 @@ weight = 2
 [[main]]
 parent =  'Resources'
 name = "For Schools"
-url = "for-schools"
+url = "/resources-for-schools"
 weight = 3
 
 [[main]]
