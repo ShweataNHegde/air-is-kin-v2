@@ -16,7 +16,7 @@ Here are some instructions on how to help your child:
 {{< image src="images/air-detective-parent-guide.png" caption="Air Detective Parents/Carer Guide" alt="alter-text" position="center" command="fill" option="q100" class="img-fluid" title="Air Detective Parents/Carer Guide" webp="false" >}}
 {{< notice "Downloadable 02" >}}
 
-Download the lesson guide, [here](https://drive.google.com/file/d/1KGSZIx1WJlHVUZKKAnRiPVp_mDKn_DvL/view?usp=sharing).
+Download the parents/carers guide, [here](https://drive.google.com/file/d/1KGSZIx1WJlHVUZKKAnRiPVp_mDKn_DvL/view?usp=sharing).
 {{< /notice >}}
 
 ## Next Step: Share your experience
