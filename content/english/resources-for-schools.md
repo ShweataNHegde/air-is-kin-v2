@@ -13,14 +13,21 @@ Use the table of contents navigation to access appropriate resources:
 ## Social Media Assets
 We have created simple editable social media assets about the campaign itself.
 
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery-01" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true">}}
 
 {{< notice "Downloadable" >}}
 
 You can download the digital assets about the campaign from this link, [here](https://drive.google.com/drive/folders/14LpGsA4IbR8HJxbc2Ko5fygsDjs5R6n9?usp=sharing).
 {{< /notice >}}
 
-We also have digital assets to prompt parents/carer and child have a conversation about the worksheet.
+We also have digital assets to prompt parents/carer and child have a conversation about the worksheet for various platforms such as Arbor/Parents Pay, Facebook and Instagram.
+
+{{< gallery dir="images/gallery-02" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true">}}
+
+{{< notice "Downloadable" >}}
+
+You can download the digital assets about the campaign from this link, [here](https://drive.google.com/drive/folders/1uUhfylfgzFRROLTOgXi0J1QAxzoeW1ew?usp=drive_link).
+{{< /notice >}}
 
 ## Digital Newsletters
 
