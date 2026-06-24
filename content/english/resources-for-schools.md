@@ -20,7 +20,7 @@ We have created simple editable social media assets about the campaign itself.
 You can download the digital assets about the campaign from this link, [here](https://drive.google.com/drive/folders/14LpGsA4IbR8HJxbc2Ko5fygsDjs5R6n9?usp=sharing).
 {{< /notice >}}
 
-We also have digital assets to prompt parents/carer and child have a conversation about the worksheet for various platforms such as Arbor/Parents Pay, Facebook and Instagram.
+We also have digital assets to prompt parents/carer and their child to have a conversation about the worksheet for various platforms such as Arbor/Parents Pay, Facebook and Instagram.
 
 {{< gallery dir="images/gallery-02" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true">}}
 
